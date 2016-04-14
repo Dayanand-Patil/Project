@@ -1,3 +1,6 @@
+//blink LED
+
+
 import RPi.GPIO as GPIO ## Import GPIO Library
 import time ## Import 'time' library.  Allows us to use 'sleep'
 
